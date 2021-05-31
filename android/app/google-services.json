@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "841065375981",
+    "firebase_url": "https://profitbook-54747.firebaseio.com",
+    "project_id": "profitbook-54747",
+    "storage_bucket": "profitbook-54747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841065375981:android:d653ab87c8d92a9e6344e4",
+        "android_client_info": {
+          "package_name": "com.example.profitbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841065375981-hh1f9ioe6tmv0jb4nbvt9g1go3ga962g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIUIo0VbiWPltSsFNGXeZX5L1wSiMAmHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841065375981-hh1f9ioe6tmv0jb4nbvt9g1go3ga962g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6414358134929772~3794478078"
+    }
+  ],
+  "configuration_version": "1"
+}
